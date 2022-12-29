@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end React Dev
 -------------------
 
-I've been learning to code for 1 years, after started with full-stack PHP - Symfony during 5 month, but I have really found a passion for JavaScript - React, so I'm working on it now...
+I've been learning to code for 1 years, after started with full-stack PHP - Symfony training for 5 month, I have really found a passion for JavaScript - React, so I'm working on it now...
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [mr.nguyencoder@gmail.com](mailto:mr.nguyencoder@gmail.com)

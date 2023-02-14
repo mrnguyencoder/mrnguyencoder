@@ -1,10 +1,10 @@
-Hello world !My name is Nguyen Coder
+Hello world !My name is Nguyen 
 ====================================================================================================================================
 
 Front-end React Dev
 -------------------
 
-I've been learning to code for 1 years, after started with full-stack PHP - Symfony training for 5 month, I have really found a passion for JavaScript - React, so I'm working on it now...
+I have been coding for a year now and began with a comprehensive full-stack PHP - Symfony training program that lasted five months. Although I enjoyed the experience, I discovered a passion for JavaScript - React that I couldn't ignore. Since then, I have been dedicating myself to mastering this exciting programming language and framework.
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [mr.nguyencoder@gmail.com](mailto:mr.nguyencoder@gmail.com)
